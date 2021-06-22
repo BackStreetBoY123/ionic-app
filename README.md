@@ -1,4 +1,4 @@
-Follow this tutorial:
+Follow these steps:
 
 1. npm install -g cordova ionic
 2. Do npm install in this directory to begin
